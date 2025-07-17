@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "YouAreAnIdiot Mod",
+  "version": "1.0",
+  "description": "Mod con fondo animado y sonidos",
+  "permissions": ["tabs", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "YouAreAnIdiot"
+  }
+}
