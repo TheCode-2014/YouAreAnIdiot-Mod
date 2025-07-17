@@ -1,0 +1,16 @@
+{
+  "name": "YouAreAnIdiot GX Mod",
+  "version": "1.0",
+  "author": "TuNombre",
+  "description": "Mod con fondo animado, risa y sonidos de teclado",
+  "background": "background.gif",
+  "html": "index.html",
+  "sounds": {
+    "startup": "idiot.mp3"
+  },
+  "theme": {
+    "accent": "#ff0000",
+    "background": "#000000",
+    "foreground": "#ffffff"
+  }
+}
